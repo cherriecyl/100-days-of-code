@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Cherrie
 
-The log of my #100DaysOfCode challenge. Started on Tuesday 12 May 2020.
+The log of my #100DaysOfCode challenge. Started on Thursday 14 May 2020.
 
 ## Log
 
