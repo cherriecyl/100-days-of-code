@@ -15,3 +15,6 @@ Turned survey form into landing page project from FreeCodeCamp: https://codepen.
 
 ### R1D4 - Sun 17 May 2020
 Got halfway through Basic Javascript section on FreeCodeCamp
+
+### R1D5 - Mon 18 May 2020
+Continued working on Basic Javascript. Hit the objects part and it's starting to feel a bit confusing
