@@ -12,3 +12,6 @@ Finished survey form project from FreeCodeCamp: https://codepen.io/cherrielam/pe
 
 ### R1D3 - Sat 16 May 2020
 Turned survey form into landing page project from FreeCodeCamp: https://codepen.io/cherrielam/pen/abvRYjQ, also completed the Technical Documentation project! https://codepen.io/cherrielam/pen/ExVdRzw, and also completed the portfolio project https://codepen.io/cherrielam/pen/OJyBoKZ! Fun turning the design ideas I see into website layouts
+
+### R1D4 - Sun 17 May 2020
+Got halfway through Basic Javascript section on FreeCodeCamp
