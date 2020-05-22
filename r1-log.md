@@ -18,3 +18,6 @@ Got halfway through Basic Javascript section on FreeCodeCamp
 
 ### R1D5 - Mon 18 May 2020
 Continued working on Basic Javascript. Hit the objects part and it's starting to feel a bit confusing
+
+### R1D6 - Thu 21 May 2020
+Skipped two days unfortunately because I got swamped at work! Still working on Basic Javascript, and finding it a little foreign and challenging
