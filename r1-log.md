@@ -21,3 +21,6 @@ Continued working on Basic Javascript. Hit the objects part and it's starting to
 
 ### R1D6 - Thu 21 May 2020
 Skipped two days unfortunately because I got swamped at work! Still working on Basic Javascript, and finding it a little foreign and challenging
+
+### R1D7 - Fri 22 May 2020
+Continued working on FreeCodeCamp's Javascript lessons on loops, recursions... completed the basic javascript section but honestly still feeling a bit confused
