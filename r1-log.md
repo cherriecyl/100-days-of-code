@@ -24,3 +24,9 @@ Skipped two days unfortunately because I got swamped at work! Still working on B
 
 ### R1D7 - Fri 22 May 2020
 Continued working on FreeCodeCamp's Javascript lessons on loops, recursions... completed the basic javascript section but honestly still feeling a bit confused
+
+## R1D8 - Sat 23 May 2020
+Spent the whole afternoon and evening making a website for my friend May's birthday! Got to use some of the Javascript that I've been learning (if else, Math.random) which is pretty exciting
+
+## R1D9 - Sun 24 May 2020
+Finished the website for May's birthday! Repo: https://github.com/cherriecyl/may-bday and live website: http://mayleeisthe.best
