@@ -30,3 +30,6 @@ Spent the whole afternoon and evening making a website for my friend May's birth
 
 ## R1D9 - Sun 24 May 2020
 Finished the website for May's birthday! Repo: https://github.com/cherriecyl/may-bday and live website: http://mayleeisthe.best
+
+## R1D10 - Mon 25 May 2020
+Started on ES6 lessons for Javascript
