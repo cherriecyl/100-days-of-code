@@ -33,3 +33,6 @@ Finished the website for May's birthday! Repo: https://github.com/cherriecyl/may
 
 ## R1D10 - Mon 25 May 2020
 Started on ES6 lessons for Javascript
+
+## R1D11 - Tue 26 May 2020
+Started coding an animated farewell card with carousel of messages
