@@ -36,3 +36,6 @@ Started on ES6 lessons for Javascript
 
 ## R1D11 - Tue 26 May 2020
 Started coding an animated farewell card with carousel of messages
+
+## R1D12 - Wed 27 May 2020
+Continued working on animated farewell card, learning about manipulating css animations with jquery, javascript
