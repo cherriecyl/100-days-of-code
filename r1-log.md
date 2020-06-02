@@ -39,3 +39,12 @@ Started coding an animated farewell card with carousel of messages
 
 ## R1D12 - Wed 27 May 2020
 Continued working on animated farewell card, learning about manipulating css animations with jquery, javascript
+
+## R1D13 - Thu 28 May 2020
+Continued working on animated farewell card
+
+## R1D14 - Fri 29 May 2020
+Finished working on animated farewell card! Live website: https://loveuaron.design
+
+## R1D15 - Mon 30 May 2020
+Skipped the weekend because I spent quite a bit of time coding the farewell card last week and needed a bit of a break, especially with world events. Started back on the FreeCodeCamp Javascript ES6 lessons.
