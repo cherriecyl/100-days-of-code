@@ -46,5 +46,11 @@ Continued working on animated farewell card
 ## R1D14 - Fri 29 May 2020
 Finished working on animated farewell card! Live website: https://loveuaron.design
 
-## R1D15 - Mon 30 May 2020
+## R1D15 - Mon 1 Jun 2020
 Skipped the weekend because I spent quite a bit of time coding the farewell card last week and needed a bit of a break, especially with world events. Started back on the FreeCodeCamp Javascript ES6 lessons.
+
+## R1D16 - Tue 2 Jun 2020
+Continued working on ES6 lessons
+
+## R1D17 - Wed 3 Jun 2020
+Finished ES6 lessons and started working on Regex section. Interesting to see the code used in Gatsby and even Coda formulas start to fall into place and make sense! 😊
